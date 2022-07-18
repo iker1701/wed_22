@@ -1,4 +1,17 @@
-h1 { 
+body{
+   background-color: rgba(255,251,247,1);
+   color: black;
+}
+
+.divisionV{
+   background-color: rgba(9,81,86, 1);
+}
+
+.verdeC{
+    background-color: rgba(161,213,135,1);
+}
+ 
+h1 {
    color:  white;
 background-color: green;
  }
@@ -6,3 +19,4 @@ button{
 color: white;
 background-color: green;
 	}
+
