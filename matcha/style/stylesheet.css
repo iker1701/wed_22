@@ -20,3 +20,40 @@ color: white;
 background-color: green;
 	}
 
+li{
+   display:inline;
+}
+.verdeBC{
+   background-color: rgb(160,213,136);
+   color: black;
+   font-size: 20px;
+}
+.verdeb{
+   background-color: rgb(4,81,86,);
+   color: black;
+   font-size: 20px;
+}
+
+.musica4{
+   background-color: rgb(249,253,101);
+
+}
+header{
+   margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 20px;
+}
+
+#img_logo{
+   width: 40px;
+   height: 40px;
+}
+#cap_logo{
+   width:50%;
+   height:50%;
+}
+
+#imagen7{
+   width:50%;
+   height:50%;
+}
