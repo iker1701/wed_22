@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 *{
-	font-family: cursive;
+	font-family: "Anton";
 	border: 4px solid blanchedalmond;
 	color: black;
 	background-color:burlywood ;
+	text-align: center;
 }
 .title{
 	color: teal ;
@@ -12,6 +15,7 @@
 }
 #article-title{
 	font-family: cursive;
+	text-align: center;
 }
 [href]{
 	color: brown;
@@ -39,3 +43,8 @@ h5{
 li h4{
 	color:black;
 }
+img{
+	opacity: 9;
+}
+
+
