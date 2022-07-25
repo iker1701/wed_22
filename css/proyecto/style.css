@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
 img{
   height: 150px;
 }
@@ -15,6 +17,15 @@ img{
 }
 .titulo{
 	text-align: center;
+	font-family: merriweather;
+}
+
+img{
+	opacity:0.7;
+}
+*{
+   margin-top:20px;
+   margin-left:10px;
 }
 
 
