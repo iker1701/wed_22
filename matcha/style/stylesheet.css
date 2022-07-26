@@ -1,3 +1,5 @@
+@import url @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,900&display=swap');
+
 body{
    background-color: rgba(255,251,247,1);
    color: black;
@@ -13,7 +15,6 @@ body{
  
 h1 {
    color:  white;
-background-color: green;
  }
 button{
 color: white;
@@ -56,4 +57,27 @@ header{
 #imagen7{
    width:50%;
    height:50%;
+}
+.promo h3{
+ font-family:Alegreya ;
+ text-align:center ; 
+ font-size: 40px;
+ line-height:48px;
+ color:#025157;
+}
+.gris{
+   color:gray;
+}
+.publish > p{
+font-size:16px;
+color:#343434;
+line-height:1.5;
+margin-bottom:20px;
+}
+.publish > form{
+   display:flex;
+}
+.publish > form p{
+   color:#025157;
+   margin-right:18px;
 }
