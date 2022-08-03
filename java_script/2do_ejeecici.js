@@ -76,6 +76,9 @@ case 6:
 default:
 	tex= "escribe un numero del 1 al 6";
 }
+
+const
+
 console.log(tex)
 
-
+gits
