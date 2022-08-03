@@ -69,15 +69,15 @@
 // console.log(f);
 // console.log(typeof(f));
 
-var uno =1;
-var cero =0;
+// var uno =1;
+// var cero =0;
 
-console.log(`el tipo de dato de la variable uno despues de la conversion aboleando es: ${typeof(Boolean(cero))} y su valor es${Boolean(cero)}.`);
+// console.log(`el tipo de dato de la variable uno despues de la conversion aboleando es: ${typeof(Boolean(cero))} y su valor es${Boolean(cero)}.`);
 
 
-var a =5;
-var b =10;
-var c =15;
+// var a =5;
+// var b =10;
+// var c =15;
 
 // console.log(a+b);
 // console.log(b-a);
@@ -98,8 +98,13 @@ var c =15;
 // var c =15;
 
 
-var r1 = ((3*a)/c)+a+b+c;
-var r2 = a-(b+c)*a/1;
+// var r1 = ((3*a)/c)+a+b+c;
+// var r2 = a-(b+c)*a/1;
 
-console.log(r1);
-console.log(r2);
+// console.log(r1);
+// console.log(r2);
+
+
+
+
+
