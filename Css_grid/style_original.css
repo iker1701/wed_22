@@ -1,0 +1,31 @@
+.grid {
+  display: grid;
+/*  grid-template-columns:100px 100px 200px;
+  grid-template-rows:40% 50% 50px;*/
+  grid-template: repeat(6, 1fr) / repeat(6,1fr) ;
+  border: 2px blue solid;
+  width: 500px;
+  height: 500px;
+}
+
+.box {
+  background-color: pink;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
+
+
+
+.a{
+/*  grid-area: grid row start / grid_column_start/grid-row-end grid-column-end;*/
+  grid-row: 5 / 7;
+  /*grid-column-end: 2;*/
+}
+
+.b{
+  grid-row: 4/5;
+  grid-column: 2/span 2;
+}
+
