@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body{
+	background-color: black;
+}
+.ol{
+	display: flex;
+	justify-content: center;
+
+}
+#clock{
+	background-color: black;
+	margin: 10px 10px 10px 10px;
+	border: 20px white ridge;
+	color: white;
+	font-size: 100px;
+	height: 150px;
+	width: 700px ;
+	font-family: Silkscreen ;
+
+}
