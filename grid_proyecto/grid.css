@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@700&display=swap');
+
+.titulo{
+	background-color:lightblue;
+	text-align: center;
+	font-family: Dancing Script;
+}
+.subtitulo{
+	background-color: lightgrey;
+	text-align: center;
+	font-family: Silkscreen;
+}
+.semana{
+	display: grid;
+	grid-template-rows: repeat(4,fr);
+}
